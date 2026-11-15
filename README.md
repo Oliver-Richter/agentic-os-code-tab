@@ -19,6 +19,11 @@ Sebastians Dashboard, der Chat-Drawer und alle anderen Tabs bleiben unverändert
 
 **Sicherheit:** Neue Tabs starten ohne `--dangerously-skip-permissions`. Der Bypass-Modus lässt sich pro Tab bewusst einschalten (MODE → bypass).
 
+## Nur von hier installieren
+Die echte Quelle ist allein dieses Repo: https://github.com/Oliver-Richter/agentic-os-code-tab
+
+Der Einbau führt Skripte mit deinen Rechten aus, und der Code-Tab startet Claude Code auf deinem Rechner. Installiere deshalb nicht aus Kopien (Forks), Zip-Dateien oder Links von anderen Stellen, außer du hast deren Code selbst geprüft. Fehler und Auffälligkeiten bitte hier als Issue melden.
+
 ## Einbauen
 Voraussetzungen: Agentic OS im Vault, Node.js LTS, git, Python 3.
 
